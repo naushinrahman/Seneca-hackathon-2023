@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+a:link    { color: #a1415e; font-size: 125%; font-weight: bold}
+a:visited { color: #a1415e; font-size: 125%; font-weight: bold}
+a:active  { color: #a1415e; font-size: 125%; font-weight: bold}
+a:hover   { color: #a1415e; font-size: 125%; font-weight: bold} 
+
+body {
+	text-align: center;
+}
+
+p {
+	font-size: 1.860em;
+	font-family: Arial Nova Light;
+}
+h1 {
+	color: #392301; 
+	font-size: 400%; 
+	font-family: Helvetica; 
+	text-align: center;
+	}
+
+h2 {
+	color: #392301; 
+	font-size: 150%; 
+	font-family: Arial Nova Light; 
+	font-weight: bold;
+	text-align: center;
+	}
+	
+h3 {
+	color: #392301; 
+	font-size: 230%; 
+	font-family: Helvetica; 
+	text-align: center;
+	}
+
+#flowchart {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+</html>
